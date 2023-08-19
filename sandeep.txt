@@ -1,0 +1,18 @@
+20 rupees deposit	18/08/2023 - 11:36:25
+9830 rupees is available balance 
+30 rupees withdrawal	18/08/2023 - 11:44:17
+9800 rupees is available balance 
+2 rupees deposit	18/08/2023 - 11:46:04
+9802 rupees is available balance 
+1 rupees withdrawal	18/08/2023 - 11:46:04
+9801 rupees is available balance 
+9 rupees deposit	18/08/2023 - 11:46:04
+9810 rupees is available balance 
+21 rupees withdrawal	2023-08-18 11:50:20.609698
+9789 rupees is available balance 
+1 rupees withdrawal	2023-08-18 11:50:20.609698
+9788 rupees is available balance 
+12 rupees deposit	19/08/2023 - 03:41:49
+9800 rupees is available balance 
+800 rupees withdrawal	19/08/2023 - 03:41:49
+9000 rupees is available balance 
