@@ -210,6 +210,6 @@ while True:
                             print("Your Card Blocked!\nPlease Try After 24 Hours:")     
                             break
                 except:
-                    print("enter a valid number:") 
+                    print("enter a valid number not a character:") 
         except:
             print("Character Not Allowed, Enter Correct Key :")
